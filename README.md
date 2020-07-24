@@ -4,8 +4,8 @@
 
 
 ### Results :
-![maze_solved]("results/maze_solved.png")
+![maze_solved](results/maze_solved.png)
 
 
-![maze_solved1]("results/maze_solved1.png")
+![maze_solved1](results/maze_solved1.png)
 
